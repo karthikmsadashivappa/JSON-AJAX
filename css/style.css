@@ -13,3 +13,7 @@
 	color: white;
 	cursor: pointer;
 }
+
+.hide-me {
+	display: none;
+}
